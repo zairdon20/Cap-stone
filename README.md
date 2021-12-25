@@ -19,11 +19,11 @@ Additional description about the project and its features.
 
 ## Live Demo
 
-[Live Demo Link]()
+[Live Demo Link]( https://zairdon20.github.io/Cap-stone/)
 
 ## Demo Video Link
 
-[Watch Demo]()
+[Watch Demo](https://www.loom.com/share/1b39c89f184e45adbcd831cc25bde40e?from_recorder=1&recording_limit=1&focus_title=1)
 
 ## Getting Started
 
